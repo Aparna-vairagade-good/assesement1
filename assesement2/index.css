@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.div{
+    text-align: center;
+}
+.div1{
+    width: 497px;
+    height: 800px;
+    text-align: center;
+}
+.btn{
+    width: 100px;
+    height: 25px;
+    background-color: tomato;
+    border: none;
+    padding: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: small;
+    box-shadow: 2px 2px 2px tomato;
+    font-style: italic;
+}
+.btn1{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(255, 148, 71);
+    border: none;
+    padding: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: small;
+    box-shadow: 2px 2px 2px rgb(255, 148, 71);
+    font-style: italic;
+    position: absolute;
+    top: 420px;
+    left: 615px;
+}
